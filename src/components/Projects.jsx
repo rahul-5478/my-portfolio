@@ -1,5 +1,6 @@
 import glowupImg from '../assets/glowup-preview.jpg'
 import hireaiImg from '../assets/hireai-preview.jpg'
+import pricescan from'../assets/pricescan-preview.jpg'
 
 const PROJECTS = [
   {
@@ -25,9 +26,9 @@ const PROJECTS = [
     stack: 'MERN · OpenAI · CSV Processing · Capacitor',
     description: 'Intelligent pricing analysis tool using OpenAI and CSV data. Users upload product data to receive AI-driven insights on price fairness and market positioning. Shipped as a cross-platform mobile app via Capacitor.',
     tags: ['MongoDB','Express','React.js','Node.js','OpenAI','CSV','Capacitor'],
-    liveUrl: null,
+    liveUrl: ,
     githubUrl: 'https://github.com/rahul-5478',
-    image: null
+    image: pricescan
   }
 ]
 
